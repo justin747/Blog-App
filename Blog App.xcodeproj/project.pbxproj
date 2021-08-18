@@ -14,6 +14,7 @@
 		3B69474826CCC55E00C8462A /* Blog_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B69474726CCC55E00C8462A /* Blog_AppTests.swift */; };
 		3B69475226CCC55F00C8462A /* Blog_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B69475126CCC55F00C8462A /* Blog_AppUITests.swift */; };
 		3B69475426CCC55F00C8462A /* Blog_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B69475326CCC55F00C8462A /* Blog_AppUITestsLaunchTests.swift */; };
+		3BFB21F226CCC9B90040D4D7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB21F126CCC9B90040D4D7 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3B69474D26CCC55F00C8462A /* Blog AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Blog AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B69475126CCC55F00C8462A /* Blog_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Blog_AppUITests.swift; sourceTree = "<group>"; };
 		3B69475326CCC55F00C8462A /* Blog_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Blog_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3BFB21F126CCC9B90040D4D7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				3B69473626CCC55900C8462A /* Blog_AppApp.swift */,
 				3B69473826CCC55900C8462A /* ContentView.swift */,
 				3B69473A26CCC55E00C8462A /* Assets.xcassets */,
+				3BFB21F126CCC9B90040D4D7 /* GoogleService-Info.plist */,
 				3B69473C26CCC55E00C8462A /* Preview Content */,
 			);
 			path = "Blog App";
@@ -233,6 +236,7 @@
 			files = (
 				3B69473E26CCC55E00C8462A /* Preview Assets.xcassets in Resources */,
 				3B69473B26CCC55E00C8462A /* Assets.xcassets in Resources */,
+				3BFB21F226CCC9B90040D4D7 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
